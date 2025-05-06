@@ -11,13 +11,18 @@ Os temas incluem:
 
 ### Pré-requisitos
 
-- [Node.js](https://nodejs.org/) instalado na máquina
+- [Node.js](https://nodejs.org/) instalado na máquina (recomendado a versão 14 ou superior)
 - VSCode (ou outro editor de código)
 - Biblioteca `prompt-sync` para entrada de dados via terminal
 
 ### Instruções
 
-1. Clone este repositório ou baixe os arquivos manualmente.
+1. Clone este repositório.
+
+```bash
+git clone https://github.com/t4sath/lista-exercicios-1-fullstackjr
+cd seu-repositorio
+```
 
 2. Instale o `prompt-sync` via terminal:
 
@@ -32,9 +37,8 @@ npm install prompt-sync
 node exercicios_resolvidos.js
 ```
 
-## Estrutura
-
 lista-exercicios-1-fullstackjr
-├── README.md
+├── README.md 
+└── exercicios_resolvidos.js 
 └── exercicios_resolvidos.js
-└── exercicios_resolvidos.js
+
