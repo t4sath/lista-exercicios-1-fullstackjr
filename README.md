@@ -37,8 +37,5 @@ npm install prompt-sync
 node exercicios_resolvidos.js
 ```
 
-lista-exercicios-1-fullstackjr
-├── README.md 
-└── exercicios_resolvidos.js 
-└── exercicios_resolvidos.js
+
 
